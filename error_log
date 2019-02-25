@@ -1,0 +1,36 @@
+[11-Aug-2018 09:21:26 Asia/Kuala_Lumpur] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/ConfigureLogging.php on line 57
+[11-Aug-2018 09:21:26 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php:734
+Stack trace:
+#0 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php(734): ReflectionClass->__construct('view')
+#1 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('view', Array)
+#2 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('view', Array)
+#3 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php(1178): Illuminate\Foundation\Application->make('view')
+#4 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(144): Illuminate\Container\Container->offsetGet('Illuminate\\Cont...')
+#5 /home/bgrc/public_html/e in /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 734
+[11-Aug-2018 09:21:28 Asia/Kuala_Lumpur] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/ConfigureLogging.php on line 57
+[11-Aug-2018 09:21:28 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php:734
+Stack trace:
+#0 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php(734): ReflectionClass->__construct('view')
+#1 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('view', Array)
+#2 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('view', Array)
+#3 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php(1178): Illuminate\Foundation\Application->make('view')
+#4 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(144): Illuminate\Container\Container->offsetGet('Illuminate\\Cont...')
+#5 /home/bgrc/public_html/e in /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 734
+[11-Aug-2018 09:21:33 Asia/Kuala_Lumpur] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/ConfigureLogging.php on line 57
+[11-Aug-2018 09:21:33 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php:734
+Stack trace:
+#0 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php(734): ReflectionClass->__construct('view')
+#1 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('view', Array)
+#2 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('view', Array)
+#3 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php(1178): Illuminate\Foundation\Application->make('view')
+#4 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(144): Illuminate\Container\Container->offsetGet('Illuminate\\Cont...')
+#5 /home/bgrc/public_html/e in /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 734
+[11-Aug-2018 09:21:39 Asia/Kuala_Lumpur] PHP Warning:  ucfirst() expects parameter 1 to be string, array given in /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/ConfigureLogging.php on line 57
+[11-Aug-2018 09:21:39 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php:734
+Stack trace:
+#0 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php(734): ReflectionClass->__construct('view')
+#1 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->build('view', Array)
+#2 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('view', Array)
+#3 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php(1178): Illuminate\Foundation\Application->make('view')
+#4 /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(144): Illuminate\Container\Container->offsetGet('Illuminate\\Cont...')
+#5 /home/bgrc/public_html/e in /home/bgrc/public_html/exitpass/awal/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 734
