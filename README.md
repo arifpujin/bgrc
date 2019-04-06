@@ -8,12 +8,20 @@
 <h1>Exit Pass - Laravel </h1>
 Task Establishment of a licensing system in and out of BGRC employees.
 Project assignment in the framework of Industrial Practices abroad in 2018
-<br>
 <ul>
   <li>Create form exitpass</li>
   <li>Approv exitpass</li>
 </ul>
-<br><br><br>
+<ul>
+  <li>
+    <p>Login Page</p>  
+    <img align="center" width="70%" src="https://github.com/arifpujin/bgrc/blob/master/assets/images/Annotation%202019-04-06%20075955.png">
+  </li>
+  <li>
+    <p>Dashboard Page</p>
+    <img align="center" width="70%" src="https://github.com/arifpujin/bgrc/blob/master/assets/images/Annotation%202019-04-06%20080222.png">
+  </li>
+</ul>
 edited by https://arifpujin.com
 email : <a href="mailto:arifpujinugroho@gmail.com" target="_blank">arifpujinugroho@gmail.com</a>
 
